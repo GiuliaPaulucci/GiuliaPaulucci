@@ -8,7 +8,7 @@ Constantly learning, growing, and creating — always looking for new ways to co
 
 ### 🌍 About Me  
 - 📍 Based in **Brasília, Brazil**  
-- ✉️ Reach me on [LinkedIn]((https://www.linkedin.com/in/giuliapaulucci/) 
+- ✉️ Reach me on [LinkedIn](#)- *((https://www.linkedin.com/in/giuliapaulucci/)* 
 - 💡 Open to collaborating on **web development**, **software engineering**, and **innovative tech projects**
 
 ---
